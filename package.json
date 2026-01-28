@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/noeljcruz/Bamazon-App#readme",
   "dependencies": {
-    "inquirer": "^7.0.0",
+    "inquirer": "^13.2.2",
     "mysql": "^2.18.0"
   }
 }
